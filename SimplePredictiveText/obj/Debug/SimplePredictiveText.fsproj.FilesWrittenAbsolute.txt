@@ -1,0 +1,6 @@
+/Users/markgray/dev/SimplePredictiveText/SimplePredictiveText/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.fs
+/Users/markgray/dev/SimplePredictiveText/SimplePredictiveText/bin/Debug/SimplePredictiveText.dll.mdb
+/Users/markgray/dev/SimplePredictiveText/SimplePredictiveText/bin/Debug/SimplePredictiveText.dll
+/Users/markgray/dev/SimplePredictiveText/SimplePredictiveText/obj/Debug/SimplePredictiveText.dll
+/Users/markgray/dev/SimplePredictiveText/SimplePredictiveText/obj/Debug/SimplePredictiveText.dll.mdb
+/Users/markgray/dev/SimplePredictiveText/SimplePredictiveText/bin/Debug/FSharp.Core.dll
